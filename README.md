@@ -33,3 +33,19 @@ jupyter notebook Quadcopter_Project.ipynb
 5. Before running code, change the kernel to match the `quadcop` environment by using the drop-down menu (**Kernel > Change kernel > quadcop**). Then, follow the instructions in the notebook.
 
 6. You will likely need to install more pip packages to complete this project.  Please curate the list of packages needed to run your project in the `requirements.txt` file in the repository.
+
+##### Episodes # 500. Same Initial & Target Positions
+
+[Graph](./500-same-start-end-graph.png)
+
+[Path](./500-same-start-end-path.png)
+
+
+
+##### Episodes # 500. Different Target Position
+
+
+[Graph](./500-different-target-graph.png)
+
+[Path](./500-different-target-path.png)
+
