@@ -36,16 +36,16 @@ jupyter notebook Quadcopter_Project.ipynb
 
 ##### Episodes # 500. Same Initial & Target Positions
 
-[Graph](./500-same-start-end-graph.png)
+![Graph](./500-same-start-end-graph.png)
 
-[Path](./500-same-start-end-path.png)
+![Path](./500-same-start-end-path.png)
 
 
 
 ##### Episodes # 500. Different Target Position
 
 
-!(./500-different-target-graph.png)
+![Graph](./500-different-target-graph.png)
 
-[Path](./500-different-target-path.png)
+![Path](./500-different-target-path.png)
 
