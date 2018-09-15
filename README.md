@@ -45,7 +45,7 @@ jupyter notebook Quadcopter_Project.ipynb
 ##### Episodes # 500. Different Target Position
 
 
-[Graph](./500-different-target-graph.png)
+!(./500-different-target-graph.png)
 
 [Path](./500-different-target-path.png)
 
